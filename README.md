@@ -9,6 +9,6 @@
   <img src="https://img.shields.io/badge/andreavaresio-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
 </a>
 <br /><br />
-<a href="https://www.twitter.com/andreavaresio/" target="_blank">
+<a href="https://github.com/andrea-varesio" target="_blank">
   <img src="https://raw.githubusercontent.com/andrea-varesio/andrea-varesio/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contributions" />
 </a>
